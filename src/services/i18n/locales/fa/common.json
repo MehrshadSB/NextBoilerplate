@@ -1,0 +1,40 @@
+{
+  "app-name": "برنامه",
+  "loading": "در حال بارگذاری ...",
+  "navigation": {
+    "home": "خانه",
+    "signIn": "ورود",
+    "signUp": "ثبت‌نام",
+    "profile": "پروفایل",
+    "users": "کاربران",
+    "logout": "خروج"
+  },
+  "formInputs": {
+    "avatarInput": {
+      "dropzoneText": "تصویر را اینجا رها کنید ...",
+      "dragAndDrop": "یا تصویر را بکشید و اینجا رها کنید",
+      "selectFile": "انتخاب تصویر"
+    },
+    "multipleImageInput": {
+      "dropzoneText": "تصاویر را اینجا رها کنید ...",
+      "dragAndDrop": "یا چند تصویر را بکشید و اینجا رها کنید",
+      "selectFile": "انتخاب تصویر"
+    },
+    "singleImageInput": {
+      "dropzoneText": "تصویر را اینجا رها کنید ...",
+      "dragAndDrop": "یا چند تصویر را بکشید و اینجا رها کنید",
+      "selectFile": "انتخاب تصویر"
+    }
+  },
+  "leavePage": {
+    "title": "از این صفحه خارج شوید؟",
+    "message": "ممکن است تغییرات شما ذخیره نشده باشند",
+    "stay": "ماندن در صفحه",
+    "leave": "خروج از صفحه"
+  },
+  "auth": {
+    "facebook": {
+      "action": "ورود با فیسبوک"
+    }
+  }
+}

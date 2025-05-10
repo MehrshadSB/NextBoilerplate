@@ -1,0 +1,49 @@
+{
+  "title": "ثبت‌نام",
+  "actions": {
+    "submit": "ثبت‌نام",
+    "accountAlreadyExists": "قبلاً حساب کاربری دارید؟"
+  },
+  "inputs": {
+    "firstName": {
+      "label": "نام",
+      "validation": {
+        "required": "وارد کردن نام الزامی است"
+      }
+    },
+    "lastName": {
+      "label": "نام خانوادگی",
+      "validation": {
+        "required": "وارد کردن نام خانوادگی الزامی است"
+      }
+    },
+    "email": {
+      "label": "ایمیل",
+      "validation": {
+        "required": "وارد کردن ایمیل الزامی است",
+        "invalid": "ایمیل وارد شده معتبر نیست",
+        "server": {
+          "emailAlreadyExists": "این ایمیل قبلاً ثبت شده است"
+        }
+      }
+    },
+    "password": {
+      "label": "رمز عبور",
+      "validation": {
+        "required": "وارد کردن رمز عبور الزامی است",
+        "min": "رمز عبور باید حداقل ۶ کاراکتر باشد",
+        "server": {
+          "incorrectPassword": "رمز عبور معتبر نیست"
+        }
+      }
+    },
+    "policy": {
+      "label": "سیاست حفظ حریم خصوصی",
+      "agreement": "من سیاست حفظ حریم خصوصی را خوانده‌ام و می‌پذیرم ",
+      "validation": {
+        "required": "پذیرش سیاست حفظ حریم خصوصی الزامی است"
+      }
+    }
+  },
+  "or": "یا"
+}

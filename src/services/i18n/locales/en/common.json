@@ -1,0 +1,40 @@
+{
+  "app-name": "APP",
+  "loading": "Loading ...",
+  "navigation": {
+    "home": "Home",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "profile": "Profile",
+    "users": "Users",
+    "logout": "Logout"
+  },
+  "formInputs": {
+    "avatarInput": {
+      "dropzoneText": "Drop the image here ...",
+      "dragAndDrop": "Or drag 'n' drop some image here",
+      "selectFile": "Select an image"
+    },
+    "multipleImageInput": {
+      "dropzoneText": "Drop the image here ...",
+      "dragAndDrop": "Or drag 'n' drop some images here",
+      "selectFile": "Select an image"
+    },
+    "singleImageInput": {
+      "dropzoneText": "Drop the image here ...",
+      "dragAndDrop": "Or drag 'n' drop some images here",
+      "selectFile": "Select an image"
+    }
+  },
+  "leavePage": {
+    "title": "Leave this page?",
+    "message": "Changes you made may not be saved",
+    "stay": "Stay on Page",
+    "leave": "Leave Page"
+  },
+  "auth": {
+    "facebook": {
+      "action": "Login with Facebook"
+    }
+  }
+}
